@@ -1,3 +1,6 @@
+try
+
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/echocat/caddy-filter)](https://goreportcard.com/report/github.com/echocat/caddy-filter)
 [![Build Status](https://travis-ci.org/echocat/caddy-filter.svg?branch=master)](https://travis-ci.org/echocat/caddy-filter)
 [![Coverage Status](https://img.shields.io/coveralls/echocat/caddy-filter/master.svg?style=flat-square)](https://coveralls.io/github/echocat/caddy-filter?branch=master)
@@ -9,11 +12,14 @@ filter allows you to modify the responses.
 
 This could be useful to modify static HTML files to add (for example) Google Analytics source code to it.
 
-* [Syntax](#syntax)
-* [Examples](#examples)
-* [Run tests](#run-tests)
-* [Contributing](#contributing)
-* [License](#license)
+- [caddy-filter](#caddy-filter)
+  - [Syntax](#syntax)
+  - [Examples](#examples)
+  - [Run tests](#run-tests)
+    - [Full](#full)
+    - [Native](#native)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Syntax
 
